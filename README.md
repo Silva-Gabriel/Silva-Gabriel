@@ -10,7 +10,7 @@
 ### - 🌱 Atualmente estudando as linguagens: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="32em"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="26em"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="22em">
 ### - 📫 Emails para contato: gabriel.santana18@fatec.sp.gov.br ou pottergryff8@gmail.com
 ### - ⚡ Gosto de passar o meu tempo codando 👨‍💻 estudando 👨‍🎓 jogando 🎮 tocando violão 🎼 assistindo filmes e series 🎞 praticando esportes ⚽🏀🤾‍♂️⛹️‍♂️🏐🏓🥋🥊♟ e ouvindo música 🎧
- 
+
 ##
 
 <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
