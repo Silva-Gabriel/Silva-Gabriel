@@ -10,6 +10,7 @@
 ### - 🌱 Atualmente estudando a linguagem: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="23">
 ### - 📫 Emails para contato: gabriel.santana18@fatec.sp.gov.br ou pottergryff8@gmail.com
 ### - ⚡ Gosto de passar o meu tempo codando 👨‍💻 estudando 👨‍🎓 jogando 🎮 tocando violão 🎼 assistindo filmes e series 🎞 praticando esportes ⚽🏀🤾‍♂️⛹️‍♂️🏐🏓🥋🥊♟ e ouvindo música 🎧
+### - 🕷🧙 Um grande Fã da Marvel e da saga Harry Potter
 
 ##
 
