@@ -1,5 +1,5 @@
 <div>
- <img alt="Me" align="left" width=100 height=100 src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/117715274_3207265356055203_2473470147227920431_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_ohc=OF4zh5890g8AX-4EK__&_nc_ht=scontent-gru2-2.xx&oh=9b8575dc4fa43e1ea8faac798a42fde3&oe=612DCA4B">
+ <img alt="Foto secundária de perfil" align="left" width=120 height=120 src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/233436059_4204372359677826_3882822858270992216_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=qpMOi9JGKr8AX8Ad-4M&_nc_ht=scontent-gru2-2.xx&oh=56e19b53abc1408759b3870f1ac08cd4&oe=61610A82">
   
   # Olá,seja bem-vindo/a ao meu perfil do github,espero que se divirta navegando em meus códigos 😁👨‍💻
   </div>
