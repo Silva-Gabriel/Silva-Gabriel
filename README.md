@@ -1,6 +1,4 @@
 <div>
- <img alt="Foto secundária de perfil" align="left" width=120 height=120 src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/233436059_4204372359677826_3882822858270992216_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEzfLyr8Pw033mXzRaxD3dw4rT93iy5wpzitP3eLLnCnAwALAa8sv9mQVJBqktpMr85FOBQXOI_9N_6GBE6aQXP&_nc_ohc=OyLyKu70z-0AX9SUwbk&_nc_ht=scontent-gru2-2.xx&oh=f529d3c7750cf50cd138f812b6085c53&oe=618C8C02">
-  
   # Olá,seja bem-vindo/a ao meu perfil do github,espero que se divirta navegando em meus códigos 😁👨‍💻
   </div>
   <br>
