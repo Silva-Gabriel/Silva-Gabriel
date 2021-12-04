@@ -4,7 +4,7 @@
   </div>
   <br>
 
-### -    Estagiário na Avanade-SP 1 | Advanced Analytics
+### - Estagiário na Avanade-SP | Advanced Analytics
 ### - 👨‍🎓 ADS Fatec Guarulhos 08/2020 - 08/2023
 ### - 🌱 Estudando para ser um Cientista de dados
 ### - 📫 Emails para contato: gabriel.santana18@fatec.sp.gov.br ou pottergryff8@gmail.com
