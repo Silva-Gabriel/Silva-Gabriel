@@ -4,9 +4,9 @@
   </div>
   <br>
 
+### -    Estagiário na Avanade-SP 1 | Advanced Analytics
 ### - 👨‍🎓 ADS Fatec Guarulhos 08/2020 - 08/2023
-### - Estagiando na Avanade-SP
-### - 🌱 Atualmente estudando a linguagem: <a href="https://github.com/Silva-Gabriel/Java-Projects"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="23"><a/>
+### - 🌱 Estudando para ser um Cientista de dados
 ### - 📫 Emails para contato: gabriel.santana18@fatec.sp.gov.br ou pottergryff8@gmail.com
 ### - ⚡ Gosto de passar o meu tempo codando 👨‍💻 estudando 👨‍🎓 jogando 🎮 tocando violão 🎼 assistindo filmes e series 🎞 praticando esportes ⚽🏀🤾‍♂️⛹️‍♂️🏐🏓🥋🥊♟ e ouvindo música 🎧
 ### - 🕷🧙 Um grande Fã da Marvel e da saga Harry Potter
