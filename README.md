@@ -48,4 +48,4 @@
 </div>
 
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Silva-Gabriel/Silva-Gabriel">
-  <img src="https://img.shields.io/github/followers/Silva-Gabriel.svg?style=social&label=Follow&maxAge=2592000">
+  <img src="https://img.shields.io/github/followers/Silva-Gabriel.svg?style=social&label=Follow&maxAge=2592000"> 
