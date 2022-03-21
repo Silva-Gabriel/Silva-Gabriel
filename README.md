@@ -6,7 +6,7 @@
 
 ### - Estagiário na Avanade-SP | Advanced Analytics
 ### - 👨‍🎓 ADS Fatec Guarulhos 08/2020 - 08/2023
-### - 🌱 Estudando para ser um Cientista de dados
+### - 🌱 Estudando para ser um Engenheiro de dados
 ### - 📫 Emails para contato: gabriel.santana18@fatec.sp.gov.br ou pottergryff8@gmail.com
 ### - ⚡ Gosto de passar o meu tempo codando 👨‍💻 estudando 👨‍🎓 jogando 🎮 tocando violão 🎼 assistindo filmes e series 🎞 praticando esportes ⚽🏀🤾‍♂️⛹️‍♂️🏐🏓🥋🥊♟ e ouvindo música 🎧
 ### - 🕷🧙 Um grande Fã da Marvel e da saga Harry Potter
