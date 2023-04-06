@@ -1,6 +1,6 @@
 <div>
   
-  # Olá,seja bem-vindo(a) ao meu perfil do github,espero que se divirta navegando em meus códigos 😁👨‍💻
+  # Olá,seja bem-vindo(a) ao meu perfil!
   </div>
   <br>
 
