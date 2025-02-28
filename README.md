@@ -1,5 +1,6 @@
 ### - 🧑‍💻 Analista Backend Dev Jr na Avanade-SP
-### - 👨‍🎓 ADS Fatec Guarulhos 08/2020 - 05/2023(Trancada)
+### - 👨‍🎓 ADS Fatec Guarulhos 08/2020 - 05/2023 (trancada)
+### - 👨‍🎓 ADS Anhanguera Educacional 02/2024 - 11/2025 (cursando)
 ### - 📫 Emails para contato: pottergryff8@gmail.com
 ##
 
